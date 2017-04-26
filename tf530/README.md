@@ -48,13 +48,17 @@ Installation is exactly the same as the Kipper2k A508. Refer to http://www.kippe
 
 You need to connect the OVR and INT2 signals to the A500 header port. 
 
+# Take this image as example connection
+
+![Connection](https://github.com/arananet/TF-HARDWARE/blob/master/tf530/gerbers/conexion.png?raw=true)
+
 ## What does the board look like
 
 Rev 3:
 
-https://github.com/terriblefire/tf530/raw/master/gerbers/tf530_rev3_top.png
+![Image of Top of PCB](https://github.com/arananet/TF-HARDWARE/blob/master/tf530/gerbers/tf530_rev3_top.png?raw=true)
 
-
+![Image of Bottom of PCB](https://github.com/arananet/TF-HARDWARE/blob/master/tf530/gerbers/tf530_rev3_bottom.png?raw=true)
 
 
 Rev 2:
