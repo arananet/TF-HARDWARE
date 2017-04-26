@@ -26,6 +26,14 @@ This board is now in Beta. It may not work in all circumstances but it has been 
 I have only verified the HD interface with Compact Flash cards.
 I have verified this board boots on Amiga 500 Rev 5, 6a, 8.1a
 
+Revision 3: 
+
+Completely untested board link.... use with caution!!!! Do not come crying to me if it didnt work!!
+
+http://dirtypcbs.com/store/designer/details/12476/2654/tf530-rev3-zip
+
+Revision 2:
+
 To buy 10 blank copies of the revision 2 board follow the following link.
 
 http://dirtypcbs.com/store/designer/details/12476/1330/tf530-rev2b-zip
@@ -41,6 +49,15 @@ Installation is exactly the same as the Kipper2k A508. Refer to http://www.kippe
 You need to connect the OVR and INT2 signals to the A500 header port. 
 
 ## What does the board look like
+
+Rev 3:
+
+https://github.com/terriblefire/tf530/raw/master/gerbers/tf530_rev3_top.png
+
+
+
+
+Rev 2:
 
 ![Image of Top of PCB](gerbers/tf530_rev2_top.jpg)
 
