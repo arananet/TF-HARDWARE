@@ -73,9 +73,8 @@ Rev 2:
 |-----|-----------------|--------------------|----------------------|--------------------------------------------------------|-------------------------------|
 | 1   |                 | MC68030RC          | MPGA128              | IC1                                                    | 68xxx PROCESSOR               | 
 | 1   |                 | MC68881FN-SOC      | PLCC68-S             | IC2                                                    | 68xxx PROCESSOR               |
-| 1   | 10K             | RESISTOR1206       | 1206                 | R3                                                     | Resistors                     |
+| 1   | 10K             | RESISTOR1206       | 1206                 | R1, R2, R3                                             | Resistors                     |
 | 13  | 10uF            | CAP_CERAMIC1206    | 1206                 | C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13 | Ceramic Capacitors            | 
-| 2   | 10K             | RESISTOR1206       | 1206                 | R1, R2  (All resistors are 10k)                        | Resistors                     | 
 | 2   | 74LVC1G17DBV    | 74LVC1G17DBV       | SOT23-5              | IC4, IC5                                               | Single Schmitt-Trigger Buffer | 
 | 1   | A500            | JUMPER-2PTH        | 1X02                 | A500                                                   | Jumper                        | 
 | 4   | AS7C4096A-12TIN | AS7C4096A-12TCN    | TSOP44-II            | U$1, U$2, U$3, U$4                                     |                               |  
